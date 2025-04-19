@@ -1,2 +1,1 @@
-checkAccess = gg.makeRequest("https://pastebin.com/raw/9PKkNCp2").content 
-pcall(load(checkAccess))
+VIPurl = "FDdBm3BX"
